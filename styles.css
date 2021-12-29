@@ -38,7 +38,16 @@ body{
     width: 80%;
     height: 80%;
 }
-
+.cardt{
+    background-color: var(--white-text);
+    border-radius: 1rem;
+    box-shadow: 0 1rem 1rem rgba(0,0, 0, 0.2);
+    display: flex;
+    margin: 1.5rem;
+    overflow: hidden;
+    width: 80%;
+    height: 30%;
+}
 .left-column{
     color: var(--background);
     padding: 50px;
